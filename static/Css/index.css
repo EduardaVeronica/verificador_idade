@@ -1,0 +1,67 @@
+body{ 
+    background: -webkit-linear-gradient(left,  #d0aeee 0%, #94bbe9 50%,#d0aeee 100%); 
+    font: normal 15pt Arial;
+   }
+   
+   h1{color: rgb(255, 255, 255);
+    text-align: center; 
+    font-size:20px;
+    font-style: initial;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.468);
+     opacity: 100%;
+     }
+    
+   
+   section {
+    font-weight: bolder;
+    text-align: center;
+     background-color: rgb(239, 235, 230);
+     border-radius: 20px;
+     padding: 25px;
+     width: 320px;
+     margin: 70px auto;
+     box-shadow: 8px 5px 10px rgba(0, 0, 0, 0.157);
+     font-size: 18px;
+    }
+.botao{
+    text-align: center;
+    
+
+}
+.botao input[type=button]{
+   color: azure; 
+   background-color: rgba(0, 0, 0, 0.468);
+   border: none;
+   font-size: 20px;
+   border-radius: 5px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+ .botao input[type=button]:hover { 
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(129, 153, 240, 0.507);
+
+  }
+    
+ footer{
+        color: rgb(246, 246, 246);
+        text-align: center;
+        font-style: italic;
+    } 
+#res { 
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(255, 255, 255, 0.878);
+    font-size: 15px;
+    background-color: rgba(0, 0, 0, 0.468);
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+   
+    
+}
+
+  
